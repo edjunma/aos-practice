@@ -87,3 +87,9 @@ img {
 .btn:hover {
 	opacity: 0.8;
 }
+
+@media (max-width: 768px) {
+	.card {
+		display: block;
+	}
+}
